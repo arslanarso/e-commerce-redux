@@ -10,7 +10,7 @@
 
 ## 📱 About The App
 
-Basic E-Commerce Mobile App Challenge with Redux and react-native-maps is a simple yet powerful mobile application developed as part of a React Native development assignment. This app serves as a platform for browsing and exploring various products, making it easier for users to discover and learn more about the items available for purchase.
+ This app serves as a platform for browsing and exploring various products, making it easier for users to discover and learn more about the items available for purchase.
 
 ## 📁 Project Structure
 
