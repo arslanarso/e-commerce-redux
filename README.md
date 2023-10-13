@@ -51,6 +51,11 @@
 ## 📸 Screenshots
 
 <div align="center">
+  <img src="screenshots/9.png" alt="LOGIN" width="300" height="auto"/>
+  <img src="screenshots/10.png" alt="REGISTER" width="300" height="auto"/>
+</div>
+
+<div align="center">
   <img src="screenshots/5.png" alt="HOMEPAGE" width="300" height="auto"/>
   <img src="screenshots/6.png" alt="HOMEPAGEMAP" width="300" height="auto"/>
 </div>
@@ -70,10 +75,7 @@
   <img src="screenshots/8.png" alt="ADDRESS" width="300" height="auto"/>
 </div>
 
-<div align="center">
-  <img src="screenshots/9.png" alt="LOGIN" width="300" height="auto"/>
-  <img src="screenshots/10.png" alt="REGISTER" width="300" height="auto"/>
-</div>
+
 
 ## 🛠️ Technologies
 
